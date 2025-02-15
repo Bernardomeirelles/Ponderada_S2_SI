@@ -45,7 +45,7 @@ Cada função realiza um conjunto de operações no sistema Chord e imprime o re
 
 ## Descrição dos Testes
 
-### Teste 1: Inserção e Recuperação
+### Teste 1: Inserção e Recuperação ( 2 em 1 )
 
 **Função:** `testarInsercaoRecuperacao()`
 
